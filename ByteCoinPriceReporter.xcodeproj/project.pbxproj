@@ -42,7 +42,7 @@
 		181066602383E6C900D4A02E = {
 			isa = PBXGroup;
 			children = (
-				1810666B2383E6C900D4A02E /* BitcoinPriceReporter */,
+				1810666B2383E6C900D4A02E /* ByteCoinPriceReporter */,
 				1810666A2383E6C900D4A02E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1810666B2383E6C900D4A02E /* BitcoinPriceReporter */ = {
+		1810666B2383E6C900D4A02E /* ByteCoinPriceReporter */ = {
 			isa = PBXGroup;
 			children = (
 				181066832383EAC800D4A02E /* Model */,
@@ -64,7 +64,7 @@
 				181066802383E87B00D4A02E /* Supporting Files */,
 				1810667A2383E6CA00D4A02E /* Info.plist */,
 			);
-			path = BitcoinPriceReporter;
+			path = ByteCoinPriceReporter;
 			sourceTree = "<group>";
 		};
 		181066802383E87B00D4A02E /* Supporting Files */ = {
@@ -137,7 +137,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 181066642383E6C900D4A02E /* Build configuration list for PBXProject "BitcoinPriceReporter" */;
+			buildConfigurationList = 181066642383E6C900D4A02E /* Build configuration list for PBXProject "ByteCoinPriceReporter" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -322,12 +322,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YJ2U97422Q;
-				INFOPLIST_FILE = BitcoinPriceReporter/Info.plist;
+				INFOPLIST_FILE = ByteCoinPriceReporter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.elena.BitcoinPriceReporter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.elena.ByteCoinPriceReporter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -340,12 +340,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YJ2U97422Q;
-				INFOPLIST_FILE = BitcoinPriceReporter/Info.plist;
+				INFOPLIST_FILE = ByteCoinPriceReporter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.elena.BitcoinPriceReporter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.elena.ByteCoinPriceReporter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -355,7 +355,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		181066642383E6C900D4A02E /* Build configuration list for PBXProject "BitcoinPriceReporter" */ = {
+		181066642383E6C900D4A02E /* Build configuration list for PBXProject "ByteCoinPriceReporter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1810667B2383E6CA00D4A02E /* Debug */,
