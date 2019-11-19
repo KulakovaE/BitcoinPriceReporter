@@ -88,6 +88,11 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="bitcoinLabel" destination="HvH-NV-qaa" id="IbY-D6-izh"/>
+                        <outlet property="currencyLabel" destination="anM-7N-OuB" id="qdG-uW-VZM"/>
+                        <outlet property="currencyPicker" destination="qGI-hL-EvE" id="LQx-y0-IcH"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
